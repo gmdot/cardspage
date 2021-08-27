@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+* {margin: 0; padding: 0;}
+
+html {
+    background: #FBF1F1;
+    font-family: "Poppins";
+}
+h1 {
+    color: #EE7272;
+    font-size: 72px;
+    text-align: center;
+    padding-top: 20px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.container-up {
+    margin: auto;
+    display: flex;
+    width: 800px;
+}
+.speed-card h2{
+    color: #42B9DF;
+    font-size: 55px;
+    text-align: center;
+}
+.speed-card {
+    margin: 15px;
+    width: 350px;
+    height: 250px;
+    background: #FCFCFC;
+    border-top: 5px solid #42B9DF;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.ex-speed {
+    width: 100%;
+    text-align: center;
+    font-size: 24px;
+    border-top: 3px solid #42B9DF;
+    color: #42B9DF;
+}
+
+.ex-speed p {padding-top: 10px;}
+
+.facility-card h2 {
+    color: #68EC6D;
+    font-size: 55px;
+    text-align: center;
+}
+.facility-card {
+    margin: 15px;
+    width: 350px;
+    height: 250px;
+    background: #FCFCFC;
+    border-top: 5px solid #68EC6D;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.ex-facility {
+    width: 100%;
+    text-align: center;
+    font-size: 24px;
+    border-top: 3px solid #68EC6D;
+    color: #68EC6D;
+}
+.ex-facility p {padding-top: 30px;}
+
+.container-down {
+    margin: auto;
+    display: flex;
+    width: 800px;
+}
+
+.technology-card h2{
+    color: #FA2A2A;
+    font-size: 48px;
+    text-align: center;
+}
+.technology-card {
+    margin: 15px;
+    width: 350px;
+    height: 250px;
+    background: #FCFCFC;
+    border-top: 5px solid #FA2A2A;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.ex-technology {
+    width: 100%;
+    text-align: center;
+    font-size: 24px;
+    border-top: 3px solid #FA2A2A;
+    color: #FA2A2A;
+}
+.ex-technology p {padding-top: 24px;}
+
+.commitment-card h2{
+    color: #F19A17;
+    font-size: 48px;
+    text-align: center;
+}
+.commitment-card {
+    margin: 15px;
+    width: 350px;
+    height: 250px;
+    background: #FCFCFC;
+    border-top: 5px solid #F19A17;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.ex-commitment {
+    width: 100%;
+    text-align: center;
+    font-size: 24px;
+    border-top: 3px solid #F19A17;
+    color: #F19A17;
+}
+.ex-commitment p {padding-top: 20px;}
